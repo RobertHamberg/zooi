@@ -1,3 +1,3 @@
 # zooi
 
-[WDC](WDC)
+[WDC](WDC.ipynd)
